@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">About me</p>
+<h1 align="left">About me</h1>
 
 ###
 
