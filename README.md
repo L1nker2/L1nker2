@@ -34,7 +34,7 @@
 
 ###
 
-<p align="left">I am an ordinary fan of information systems, who does what interests him without fanaticism.<br>During my studies, I was programming a light and non-optimized GUI on C#, just on chill<br>Now I am automating routine tasks at my job using Python. Basically, this is setting up metrics, writing bots, loading all this into Docker.</p>
+<p align="left">No Data</p>
 
 ###
 
